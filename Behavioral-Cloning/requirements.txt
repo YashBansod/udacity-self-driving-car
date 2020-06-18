@@ -1,0 +1,9 @@
+eventlet==0.25.0
+Flask-SocketIO==2.9.2
+jupyter==1.0.0
+Keras==2.2.4
+matplotlib==3.0.3
+mock==3.0.5
+moviepy==1.0.0
+netifaces==0.10.6
+tensorflow-gpu==1.12.0

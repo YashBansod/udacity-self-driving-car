@@ -1,0 +1,6 @@
+# ignore the pycharm specific folders
+.idea/*
+
+# ignore the ipynb checkpoints and pytest cache
+.ipynb_checkpoints/*
+.pythest_cache/*

@@ -1,0 +1,7 @@
+colorama==0.4.1
+jupyter==1.0.0
+matplotlib==3.0.3
+moviepy==1.0.0
+opencv-python==4.1.0.25
+pytest==4.4.1
+pywinpty==0.5.5

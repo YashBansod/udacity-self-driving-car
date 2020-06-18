@@ -1,0 +1,15 @@
+.idea
+.idea/*
+.ipynb_checkpoints
+
+temp/*
+temp.*
+temp?.*
+temp??.*
+SimRec*/*
+
+*.npy
+*.csv
+
+*.h5
+*.7z
