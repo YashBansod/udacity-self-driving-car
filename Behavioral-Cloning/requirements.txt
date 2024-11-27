@@ -1,4 +1,4 @@
-eventlet==0.25.0
+eventlet==0.31.0
 Flask-SocketIO==2.9.2
 jupyter==1.0.0
 Keras==2.2.4
